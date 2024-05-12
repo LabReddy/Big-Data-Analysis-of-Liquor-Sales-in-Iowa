@@ -10,7 +10,9 @@ The dataset, named Liquor_sales, was sourced from Kaggle and consists of approxi
 
 Key Columns
 invoice_and_item_number: Unique identifier for transactions
+
 date: Date of order
+
 store_number and store_name: Information about the store ordering the liquor
 category_name, item_description: Details of the liquor ordered
 state_bottle_cost, state_bottle_retail: Pricing information
