@@ -2,13 +2,13 @@
 
 This repository contains the analysis project for the "Big Data - BUAN 6346" course. The objective of this project is to identify actionable business insights through the analysis of liquor sales data from Iowa, utilizing Hadoop, PySpark, and Hive for data processing and Tableau for visualizations.
 
-# Project Overview
+## Project Overview
 This analysis aims to derive meaningful business insights by exploring liquor sales data, specifically focusing on Iowa Class "E" liquor licenses from January 2021 to January 2022. The project leverages big data tools and technologies to handle datasets exceeding 1GB, aiming to uncover patterns and correlations that could aid strategic business decisions.
 
-# Dataset Description
+## Dataset Description
 The dataset, named Liquor_sales, was sourced from Kaggle and consists of approximately 3 million records spread across 24 columns detailing liquor purchases. This comprehensive data includes transactional details like store and product specifics, financials, and geographic locations.
 
-# Key Columns
+## Key Columns
 
 invoice_and_item_number: Unique identifier for transactions
 
@@ -32,7 +32,7 @@ Data Processing and Analysis: Apache Hadoop and Apache Spark.
 
 Visualization: Tableau for creating dynamic visualizations to illustrate findings.
 
-Business Questions
+## Business Questions
 
 Stores and Categories Performance: How do store order volumes and product sales volumes correlate with total dollar sales at both store and product levels?
 
