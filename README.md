@@ -37,4 +37,5 @@ Business Questions
 Stores and Categories Performance: How do store order volumes and product sales volumes correlate with total dollar sales at both store and product levels?
 
 Pricing Strategy: How does pricing affect the volume and profitability of liquor sales? What are the optimal price points for various categories to enhance revenue?
+
 Vendor and Category Profitability: Which vendors and product categories contribute most to profitability, and how can this information improve vendor negotiations and inventory decisions?
