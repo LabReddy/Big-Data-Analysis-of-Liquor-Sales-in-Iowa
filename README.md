@@ -9,7 +9,6 @@ This analysis aims to derive meaningful business insights by exploring liquor sa
 The dataset, named Liquor_sales, was sourced from Kaggle and consists of approximately 3 million records spread across 24 columns detailing liquor purchases. This comprehensive data includes transactional details like store and product specifics, financials, and geographic locations.
 
 ## Key Columns
-
 invoice_and_item_number: Unique identifier for transactions
 
 date: Date of order
@@ -24,8 +23,7 @@ bottles_sold, sale_dollars: Sales data
 
 volume_sold_liters, volume_sold_gallons: Liquor volume data
 
-Tools Used
-
+## Tools Used
 Data Loading: Flume or Sqoop for importing data into Hadoop.
 
 Data Processing and Analysis: Apache Hadoop and Apache Spark.
@@ -33,7 +31,6 @@ Data Processing and Analysis: Apache Hadoop and Apache Spark.
 Visualization: Tableau for creating dynamic visualizations to illustrate findings.
 
 ## Business Questions
-
 Stores and Categories Performance: How do store order volumes and product sales volumes correlate with total dollar sales at both store and product levels?
 
 Pricing Strategy: How does pricing affect the volume and profitability of liquor sales? What are the optimal price points for various categories to enhance revenue?
